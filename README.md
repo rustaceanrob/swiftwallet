@@ -1,5 +1,7 @@
 # An iOS-native Bitcoin and Lightning Wallet
 
+![App Preview](https://github.com/rustaceanrob/swiftwallet/assets/102320249/84241061-fda8-46e9-a740-87874341d795)
+
 ## App Summary
 
 There are a number of available Bitcoin wallets on the App Store, all ranging in the robustness of features and design goals. Apps like [Strike](https://strike.me/) and Cash App bring a polished and native experience to mobile payments and Bitcoin, but they custody funds on behalf of their users. There are a number of apps that push self-custody forward like [BlueWallet](https://bluewallet.io/), [Pheonix](https://phoenix.acinq.co/) and [Breez](https://breez.technology/), however their engineering teams are focused on Lightning Node implementations, tools, and specifications. Typically small and technical teams like these reach for a cross-platform solution like Flutter or React Native to bring their app to market, but these tools are suboptimal when catering to Android or iOS specifically. There are Android-native self-custody wallets on the Google Play Store, yet the solutions for iOS have not hit the market or gained a significant portion of market share. This app, which is unnamed at the moment, aims to bridge the gap between well-funded, highly developed custodial wallets and the cross-platform self-custodial implementations. 

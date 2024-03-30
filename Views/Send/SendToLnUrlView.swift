@@ -50,6 +50,7 @@ struct SendToLnUrlView: View {
                             .font(.callout)
                             .foregroundStyle(.gray)
                     }
+                    Spacer()
                 }
                 VStack(alignment: .center, spacing: 5) {
                     if amount.contains(".") {
